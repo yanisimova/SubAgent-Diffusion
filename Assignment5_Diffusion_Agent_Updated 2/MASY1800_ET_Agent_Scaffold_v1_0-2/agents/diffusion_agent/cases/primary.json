@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative-AI coding assistants",
+  "intended_application": "Developer assistance with low-risk unit tests and documentation, subject to human review",
+  "organization": "Hypothetical 120-person B2B software company",
+  "industry_sector": "Software development / B2B SaaS",
+  "business_need": "Reduce documentation and test-writing backlog without degrading code quality",
+  "users_stakeholders": "Developers, engineering leads, security, QA, product customers",
+  "adoption_posture": "Moderate / fast follower",
+  "capabilities_constraints": "Existing CI and code review; small platform team; no internal tool-evaluation baseline yet; repository confidentiality rules",
+  "risk_consequence_context": "Moderate: generated code can create defects or expose source, but changes can be reviewed and reverted",
+  "management_question": "When and how should the engineering team assess a limited, reversible coding-assistant pilot?",
+  "time_horizon": "Next 6 months",
+  "additional_context": "Illustrative case only. Reference the same 2025 Stack Overflow and DORA survey observations in all three tests; internal baseline and peer deployment prevalence are unknown."
+}

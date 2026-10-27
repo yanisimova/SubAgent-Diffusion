@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative-AI coding assistants",
+  "intended_application": "Developer assistance with low-risk unit tests and documentation, subject to human review",
+  "organization": "Hypothetical 120-person B2B software company",
+  "industry_sector": "Software development / B2B SaaS",
+  "business_need": "Reduce documentation and test-writing backlog without degrading code quality",
+  "users_stakeholders": "Developers, engineering leads, security, QA, product customers",
+  "adoption_posture": "Conservative / risk-averse",
+  "capabilities_constraints": "Existing CI and code review; no dedicated security review bandwidth this quarter; restrictive data-processing policy; no tool-evaluation baseline",
+  "risk_consequence_context": "High contractual confidentiality and supply-chain assurance consequences; errors remain reviewable but exposure may not be reversible",
+  "management_question": "Should the firm permit any coding-assistant trial before a security and data-governance review?",
+  "time_horizon": "Next 6 months",
+  "additional_context": "Contrast on posture, constraints and consequence; preserve the same external evidence and narrow task."
+}

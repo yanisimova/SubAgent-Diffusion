@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative-AI coding assistants",
+  "intended_application": "Developer assistance with low-risk unit tests and documentation, subject to human review",
+  "organization": "Hypothetical 120-person B2B software company",
+  "industry_sector": "Software development / B2B SaaS",
+  "business_need": "Reduce documentation and test-writing backlog without degrading code quality",
+  "users_stakeholders": "Developers, engineering leads, security, QA, product customers",
+  "adoption_posture": "Aggressive / early adopter",
+  "capabilities_constraints": "Dedicated platform/security evaluation team, approved sandbox and automated tests, limited pilot budget; no measured internal baseline yet",
+  "risk_consequence_context": "Moderate, with isolated non-production repositories, human review and rapid rollback; confidentiality controls required",
+  "management_question": "How quickly can the firm begin a gated experimental trial and learn from peers?",
+  "time_horizon": "Next 3 months",
+  "additional_context": "Contrast on posture and capabilities; preserve the same external evidence and narrow task."
+}
